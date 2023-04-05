@@ -1,0 +1,25 @@
+{
+  "name": "prettier_config",
+  "version": "1.0.0",
+  "description": "testing prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraPrz/prettier_config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "saraprz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraPrz/prettier_config/issues"
+  },
+  "homepage": "https://github.com/SaraPrz/prettier_config#readme",
+  "devDependencies": {
+    "prettier": "2.8.7"
+  }
+}
